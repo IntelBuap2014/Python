@@ -1,2 +1,2 @@
 #! /usr/bin/python3
-print("Hola mundo piñata!")
+print "Hola mundo piñata!"
