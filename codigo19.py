@@ -7,4 +7,4 @@ for numero in range(0,10):
 print ("\n")
 
 for numero_par in range(0,12,2):
-	print ("\t %d es un numero impar" % numero_par)
+	print ("\t %d es un numero par" % numero_par)
