@@ -5,5 +5,5 @@ while True:
 	try:
 		numero = int(input("Ingresa un numero: \n"))
 		break
-	except (ValueError, EOFError, KeyboardInterrupt):
+	except (ValueError, EOFError, KeyboardInterrupt, NameError):
 		print ("Ooop! Atrape un excepcion")

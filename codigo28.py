@@ -8,7 +8,7 @@ def fibonacci(numero):
 	"""
 	a, b = 0, 1
 	while b < numero:
-		print (b, end = " ")
+		print (b, end=" ")
 		a, b = b, a + b
 
 	print ("")

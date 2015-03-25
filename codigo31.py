@@ -6,4 +6,4 @@ while True:
 		numero = int(input("Ingresa un numero > "))
 		break
 	except ValueError:
-		print ("Ooop! ni con <Ctrl><c>=P")
+		print ("Ooop! No es valor valido")

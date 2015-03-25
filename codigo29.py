@@ -1,8 +1,8 @@
 #! /usr/bin/python3
 # -*- coding:utf-8 -*-
 # Programa que importara el modulo fibonacci
-import codigo28
+import codigo28 as co
 
 numero = eval(input("Ingresa el numero -> "))
 
-codigo28.fibonacci(numero)
+co.fibonacci(numero)
